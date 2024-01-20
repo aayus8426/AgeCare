@@ -1,9 +1,9 @@
-<footer class="bg-blue-300 text-white p-4">
+<footer class="bg-blue-500 text-white p-4">
     <div class="container mx-auto text-center">
         <p class="font-semibold text-xl">Contact us</p>
-        <p> info@caretakerservices.com</p>
+        <p> info@carema.com</p>
         <p>(555) 123-4567</p>
-        <pLocation: 123 Main Street, City, Country</p>
+        <pLocation: 123 Main Street, City, Nepal</p>
 
         <!-- Social Media Icons -->
         <div class="flex justify-center mt-4">
@@ -19,6 +19,6 @@
             <!-- Add more social media icons as needed -->
         </div>
 
-        <p>© 2024 Caretaker Services. All rights reserved.</p>
+        <p>© 2024 Carema. All rights reserved.</p>
     </div>
 </footer>
